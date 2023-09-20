@@ -40,6 +40,6 @@ To run the Crop Recommendation Chatbot locally or contribute to its development,
 ## Disclaimer
 This chatbot provides recommendations based on data and algorithms, but it's essential to consult with agricultural experts and consider local conditions for the best results in real-world farming scenarios.
 
-![image](https://github.com/singhal0306/Crop-Recommendation-Chatbot/assets/86726484/374045e8-d8c1-4aba-8049-b81c45c53040)
 
+![image](https://github.com/singhal0306/Crop-Recommendation-Chatbot/assets/86726484/839feb8e-2d8a-4cbd-8f3c-30580bae1890)
 ![image](https://github.com/singhal0306/Crop-Recommendation-Chatbot/assets/86726484/0560c9a6-9975-4347-b728-14aa6aba2a2b)
